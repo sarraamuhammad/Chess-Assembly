@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0367BH 0367CH TEAM24_TEXT        CODE
+ 03680H 04209H 00B8AH _DATA              DATA
+ 04210H 0439FH 00190H STACK              STACK
+
+Program entry point at 0000:32D0
+
